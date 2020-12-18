@@ -1,15 +1,13 @@
 # Declaration
-I am creating it just for fun, not for gambling purpose. You should always work harder and smarter?, but not gambling to earn a living.
+I am creating it just for fun, not for gambling purpose. You should always work hard and smart?, but not gambling to earn a living.
 
 # EuroMillions
 On 11 December, 2020 (Friday), the top prize was up to 200 million euros. Everyone was crazy about it and did not want to miss the chance to be a millionnaire. 
 The purpose of this project is as follow:
 1) Practice of Web scraping
 2) Build a EuroMillion prediction model based on Data analytics
-
-# To-Do list
-1) Build Web scraping class for clean code
-2) Can the prediction model outperform the auto-generated random numbers
+3) Build Web scraping class for clean code
+4) Can the prediction model outperform the auto-generated random numbers
 
 # Installation
 ```
